@@ -1,23 +1,7 @@
-# Vite + React + Typescript + Eslint + Prettier + EditorConfig
+# Projeto utilização de dados das APIs do Rick and Morty
 
-A starter for React with Typescript with the fast Vite and all static code testing with Eslint and formatting with Prettier and EditorConfig.
+Visualização do projeto: (https://profparedes-rick-and-morty.netlify.app/)
 
-## Installation & run
+Projeto de estudos para aplicação das APIs do Rick and Morty
 
-1. Install `Eslint` extension for VS Code.
-
-2. Clone the repo and run:
-
-```
-yarn
-```
-
-3. Then:
-
-```
-yarn dev
-```
-
-## Credits
-
-This is a fork of [https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier)
+Tecnologias utilizadas: APIRest, ReactJS com TypeScript
